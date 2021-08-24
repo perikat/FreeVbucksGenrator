@@ -5,7 +5,7 @@
     margin: 0; padding:0;}
 
 body {
-    color:black;
+    color:white;
     font-family: Urbanist;
     text-align: center;
     background-color: black;
@@ -37,9 +37,13 @@ body {
 
 .free-vbucks {
     font-family: 'Montserrat', sans-serif;
-    font-weight: 900;
+    font-weight: 600;
 }
 
 p{
     font-size: 20px;
+}
+
+.garv {
+    margin-top: 2rem;
 }
